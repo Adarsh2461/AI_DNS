@@ -1,0 +1,11 @@
+# Ignore all CSV files
+
+
+# Ignore all Markdown files
+*.md
+*.pyc
+.pytest_cache/
+__pycache__/
+*.log
+tranco_1_mil.csv
+.env
